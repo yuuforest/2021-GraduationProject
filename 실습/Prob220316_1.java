@@ -43,5 +43,3 @@ public class Prob220316_1 {
 
     }
 }
-
-
