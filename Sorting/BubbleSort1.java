@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BubbleSort1 {
 
-    static int[] Bubble(int unSorted[], int length){
+    public static int[] Bubble(int unSorted[], int length){
 
         int temp = 0;
 

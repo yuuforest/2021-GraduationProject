@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SelectionSort1 {
 
-    static int[] Selection(int unSorted[], int length) {
+    public static int[] Selection(int unSorted[], int length) {
 
         int smallest = 0;
         int temp = 0;

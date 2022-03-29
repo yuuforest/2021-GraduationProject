@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MergeSort1 {
 
-    static void mergesort(int unSorted[], int length) {
+    public static void mergesort(int unSorted[], int length) {
 
         int h = length / 2, m = length - h;
         int[] U = new int[h];
@@ -26,7 +26,7 @@ public class MergeSort1 {
         }
     }
 
-    static void merge(int h, int m, int U[], int V[], int unSorted[]) {
+    public static void merge(int h, int m, int U[], int V[], int unSorted[]) {
         
         int i = 0, j = 0, k = 0;
 
@@ -53,7 +53,6 @@ public class MergeSort1 {
             }
         }
     }
-
 
     public static void main(String[] args) {
         

@@ -3,7 +3,7 @@ package Sorting;
 import java.util.Arrays;
 
 public class ShellSort2 {
-    static int[] Shell(int unSorted[], int length) {
+    public static int[] Shell(int unSorted[], int length) {
 
         int[] gaps= {701, 301, 132, 57, 23, 10, 4, 1};
         int temp = 0, i = 0, j = 0;

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ShellSort1 {
 
-    static int[] Shell(int unSorted[], int length) {
+    public static int[] Shell(int unSorted[], int length) {
 
         int h = 0, v = 0, j = 0;
 

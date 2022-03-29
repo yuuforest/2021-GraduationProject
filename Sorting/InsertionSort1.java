@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class InsertionSort1 {
 
-    static int[] Insertion(int unSorted[], int length) {
+    public static int[] Insertion(int unSorted[], int length) {
 
         int j = 0;
         int key = 0;
