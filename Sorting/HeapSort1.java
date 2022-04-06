@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class HeapSort1 {
     
     // 0이 아닌 1부터 시작하는 배열 정렬 
+    // TO 0 부터 시작하는 배열 정렬하는 코드 (너무 어렵다 진짜 트리가 코드 이해하기 너무 힘듦)
 
     public static void HeapSort(int unSorted[]) {
 

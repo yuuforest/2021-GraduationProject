@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 // FIX 돌아가지를 않음 후
 
+// TO 성능 향상 방법 1. 스택을 사용하여 순환 제거 2. 작은 부분 화일의 경우 삽입 정렬 사용 3. 중간값 분할(Median-of-Three Partitioning)
+
 public class QuickSort3 {
     // 성능 향상 방법2
     // 작은 부분 화일의 경우 삽입 정렬 사용
