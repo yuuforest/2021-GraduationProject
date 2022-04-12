@@ -34,9 +34,9 @@ public class BruteForce {
         String text = "Brute-Force is easy?";
         String pattern = "Force";
 
-        int start = Brute(pattern, text);
+        int matching = Brute(pattern, text);
 
-        sb.append(start);
+        sb.append(matching);
 
         System.out.println(sb);
     }
