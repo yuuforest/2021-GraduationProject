@@ -1,7 +1,5 @@
 package String_Searching;
 
-import java.util.Arrays;
-
 public class KMP {
 
     // 재시작 위치 알고리즘
