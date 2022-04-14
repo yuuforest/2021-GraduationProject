@@ -64,5 +64,7 @@ public class Prob220413 {
 
         kmp(pattern2, text2);  
 
+        // FIX Pattern이 겹쳐서 나타나는 경우 찾지 못함 https://www.acmicpc.net/board/view/52492 (KMP 반례)
+
     }
 }
