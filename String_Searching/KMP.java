@@ -63,6 +63,8 @@ public class KMP {
         int matching = kmp(pattern, text);
         sb.append("text[" + matching + "] = " + text.charAt(matching));
 
+        // FIX 패턴이 겹쳐서 발생하는 경우 파악 불가능 해결 필요
+
         System.out.println(sb);
 
     }
