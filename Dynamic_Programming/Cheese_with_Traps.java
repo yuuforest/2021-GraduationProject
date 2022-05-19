@@ -55,8 +55,6 @@ public class Cheese_with_Traps {
         System.out.println("Maximum Cheese = " + BigCheese[0][column-1]);
     }
 
-    
-    
     public static void main(String[] args) {
 
         int[][] map = {{0, 0, 1, 0, 0, 0, 0, 0, 0}, 
