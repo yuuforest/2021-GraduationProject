@@ -1,4 +1,4 @@
-package 학교수업.String_Searching;
+package 학교강의.String_Searching;
 
 public class KMP {
 

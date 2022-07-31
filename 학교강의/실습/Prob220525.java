@@ -1,4 +1,4 @@
-package 학교수업.실습;
+package 학교강의.실습;
 
 public class Prob220525 {
     

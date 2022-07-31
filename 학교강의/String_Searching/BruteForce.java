@@ -1,4 +1,4 @@
-package 학교수업.String_Searching;
+package 학교강의.String_Searching;
 
 // 직선적 알고리즘 (naive) 
 // Simple Matching Algorithm (단순 매칭) or Trivial Matching Algorithm (하찮은 매칭) or Linear Matching Algorithm (선형 매칭)

@@ -1,4 +1,4 @@
-package 학교수업.Other_Algorithm;
+package 학교강의.Other_Algorithm;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

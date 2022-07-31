@@ -1,4 +1,4 @@
-package 학교수업.실습;
+package 학교강의.실습;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

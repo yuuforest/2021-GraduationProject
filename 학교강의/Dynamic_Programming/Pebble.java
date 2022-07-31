@@ -1,4 +1,4 @@
-package 학교수업.Dynamic_Programming;
+package 학교강의.Dynamic_Programming;
 
 public class Pebble {
 

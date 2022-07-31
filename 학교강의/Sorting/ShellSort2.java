@@ -1,4 +1,4 @@
-package 학교수업.Sorting;
+package 학교강의.Sorting;
 
 import java.util.Arrays;
 
