@@ -4,18 +4,16 @@
 
 <br/>
 
-## 온라인 화상 면접 연습 시스템
-
-<br/>
+## **온라인 화상 면접 연습 시스템**
 
 👉 [Paper Download](<https://github.com/yuuforest/Online-Video-Interview-Practice-System/blob/main/paper/(%EA%B0%95%EC%9C%A0%EB%A6%BC%2C%20%EB%B0%95%EC%A7%80%EC%9D%80%2C%20%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98%20%20%EB%B0%95%EC%9E%AC%ED%98%95%EA%B5%90%EC%88%98%EB%8B%98)%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%99%94%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%97%B0%EC%8A%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf>)
 
-<br/><br/>
+<br/>
 
-### 🔎 Why?
+## **🔎 Description**
 
-- 언택트 시대에 접어들면서 비대면 채용 제도를 사용하는 기업의 증가하면서
-- 대면 면접에 비해 면접자의 얼굴에 집중되는 상황에 따라
+- 면접자가 비대면 면접을 종합적으로 준비하고 연습할 수 있도록 면접자의 비언어적 표현에 대해서 피드백을 제공하는 시스템
+- 면접자의 얼굴 위치, 비언어적 표현인 눈의 시선 처리, 그리고 입술의 움직임을 태도를 통해 면접자의 태도를 분석하고 피드백 제공
   <br/><br/>
 
 ## **🎥 Demo**
