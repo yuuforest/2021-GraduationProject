@@ -1,6 +1,6 @@
 # 💻 Online Video Interview Practice System
 
-### 2021-2 Graduation Project (Information Communication Engineering)
+### 2021-2 Graduation Project (Information Communication Engineering) 2021.09 ~ 2021.12
 
 <br/>
 
@@ -12,8 +12,8 @@
 
 ## **🔎 Description**
 
-- 면접자가 비대면 면접을 종합적으로 준비하고 연습할 수 있도록 면접자의 비언어적 표현에 대해서 피드백을 제공하는 시스템
-- 면접자의 얼굴 위치, 비언어적 표현인 눈의 시선 처리, 그리고 입술의 움직임을 태도를 통해 면접자의 태도를 분석하고 피드백 제공
+- 면접자가 비대면 면접을 종합적으로 준비하고 연습할 수 있는 환경을 제공하는 시스템 제작
+- 면접자의 얼굴 위치, 비언어적 표현인 눈의 시선 처리, 그리고 입술의 움직임을 통해 면접자의 태도 분석하고 그와 관련된 피드백 제공
   <br/><br/>
 
 ## **🎥 Demo**
@@ -22,7 +22,7 @@
 <br/><br/>
 <br/><br/>
 
-## **⚒ Tech Stacks**
+## **🔌 Tech Stacks**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
@@ -32,10 +32,10 @@
 
 ## **👭 Contributions**
 
-|    Name    |                        Contribution                         |      Contact       |
-| :--------: | :---------------------------------------------------------: | :----------------: |
-| Jieun Park |    Face Landmark, Facial Expression, Dataset, GUI Graph     | jieunpark@inha.edu |
-| Yurim Kang | Face Detection, Gaze Estimation, Dataset, GUI Time Function | 12171745@inha.edu  |
+|    Name    |                        Contribution                         |                  Contact                  |
+| :--------: | :---------------------------------------------------------: | :---------------------------------------: |
+| Jieun Park |    Face Landmark, Facial Expression, Dataset, GUI Graph     |   [krapeun](https://github.com/krapeun)   |
+| Yurim Kang | Face Detection, Gaze Estimation, Dataset, GUI Time Function | [yuuforest](https://github.com/yuuforest) |
 
 <br/><br/>
 
