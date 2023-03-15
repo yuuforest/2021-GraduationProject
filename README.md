@@ -43,7 +43,6 @@ Online Interview, Face Detection, Facial Landmark, Gaze Tracking, Facial Express
 | Yurim Kang | Face Detection, Gaze Estimation, Dataset, GUI Time Function | [yuuforest](https://github.com/yuuforest) |
 | Jieun Park |    Face Landmark, Facial Expression, Dataset, GUI Graph     |   [krapeun](https://github.com/krapeun)   |
 
-
 <br/>
 
 ## **📚 References**
