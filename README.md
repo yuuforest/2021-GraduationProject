@@ -1,12 +1,12 @@
 # 💻 Online Video Interview Practice System
 
-### 2021-2 Graduation Project (Information Communication Engineering) 2021.09 ~ 2021.12
+### 2021 Graduation Project (Information Communication Engineering) 2021.09 ~ 2021.12
 
 <br/>
 
 ## **온라인 화상 면접 연습 시스템**
 
-👉 [Paper Download](<https://github.com/yuuforest/Online-Video-Interview-Practice-System/blob/main/paper/(%EA%B0%95%EC%9C%A0%EB%A6%BC%2C%20%EB%B0%95%EC%A7%80%EC%9D%80%2C%20%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98%20%20%EB%B0%95%EC%9E%AC%ED%98%95%EA%B5%90%EC%88%98%EB%8B%98)%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%99%94%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%97%B0%EC%8A%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf>)
+👉 [Paper Download](<https://github.com/yuuforest/2021-GraduationProject/blob/main/paper/(%EA%B0%95%EC%9C%A0%EB%A6%BC%2C%20%EB%B0%95%EC%A7%80%EC%9D%80%2C%20%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98%20%20%EB%B0%95%EC%9E%AC%ED%98%95%EA%B5%90%EC%88%98%EB%8B%98)%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%99%94%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%97%B0%EC%8A%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf>)
 
 <br/>
 
