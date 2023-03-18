@@ -22,6 +22,14 @@ Online Interview, Face Detection, Facial Landmark, Gaze Tracking, Facial Express
   
 <br/>
 
+## **📋 Design**
+
+
+![image](https://user-images.githubusercontent.com/97596022/226108490-defcf317-9f85-4f1c-8703-d4b0bfb9489b.png)
+
+
+<br/>
+
 ## **🎥 Demo**
 
 ![demo](https://user-images.githubusercontent.com/62520045/171441314-d5fbd4db-3aa0-445f-8d7d-cb6e324d1158.gif)
